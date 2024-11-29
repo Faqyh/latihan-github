@@ -2,3 +2,5 @@ Kegiatan Tahun Ini
 - Belajar Dasar Git dan Github
 - Mengulang materi saat MSIB Cycle 6
 - Mengerjakan Project
+- Belajar Teknologi di Youtube
+- Mencari materi dalam bentuk Video dan mempelajarinya
