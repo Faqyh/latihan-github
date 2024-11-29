@@ -1,4 +1,6 @@
 Rencana Belajar
-- Dasar JS
+- Dasar Javascript
+  * ES6
+  * Framework JS
 - Github
 - Dasar PHP dan MVP
