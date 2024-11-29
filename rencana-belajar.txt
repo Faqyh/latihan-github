@@ -1,0 +1,4 @@
+Rencana Belajar
+- Dasar JS
+- Github
+- Dasar PHP dan MVP
