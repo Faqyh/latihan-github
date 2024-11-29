@@ -1,0 +1,4 @@
+Kegiatan Tahun Ini
+- Belajar Dasar Git dan Github
+- Mengulang materi saat MSIB Cycle 6
+- Mengerjakan Project
